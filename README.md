@@ -1,3 +1,5 @@
+[![Quarto Publish](https://github.com/vanHeemstraSystems/creations-acts/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/creations-acts/actions/workflows/publish.yml)
+
 creations-acts
 # Creations - Acts
 
