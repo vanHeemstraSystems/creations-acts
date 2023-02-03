@@ -9,6 +9,12 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: act-i.qmd
+        text: Act I
+      - href: act-ii.qmd
+        text: Act II
+      - href: act-iii.qmd
+        text: Act III
 
 format:
   html:
