@@ -3,7 +3,7 @@
 creations-acts
 # Creations - Acts
 
-Can be read as "Creations - Acts" at https://app.gitbook.com/s/Rs3XPuVclvoj92Exb9AA/
+Can be read as "Creations - Acts" at https://app.gitbook.com/o/NOqeW3nD9tJaUGh3bDjj/s/toNbM1eDXZFuJalsi1aZ/
 
 Can be browsed as "Creations - Acts" at https://vanheemstrasystems.github.io/creations-acts/
 
