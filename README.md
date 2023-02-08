@@ -14,5 +14,3 @@ Documentation of this repository is automatically done with Quarto using GitHub 
 - [Creations Act II](https://github.com/vanHeemstraSystems/creations-act-ii)
 
 - [Creations Act III](https://github.com/vanHeemstraSystems/creations-act-iii)
-
-**TO DO**: Create Quarto documentation also for Creations Act I, Act II, and Act III in their respective repositories and link this Quarto documentation to those.
